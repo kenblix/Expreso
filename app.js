@@ -14,7 +14,7 @@ const CONFIG = {
   whatsapp: '919163968140',              // digits only: country code + number, e.g. 919876543210
   phoneDisplay: '+91 91639 68140',
   phoneTel: '+919163968140',
-  email: 'info@your-domain.in',
+  email: 'ritenterprise.ev@gmail.com',
   address: '[Moubesia, Uluberia, Howrah, Maubesia, West Bengal, India, Pin: 711215]',
   instagram: '',                          // full URL, e.g. https://instagram.com/yourhandle
   facebook: '',                           // full URL
