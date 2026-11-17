@@ -23,7 +23,7 @@ const CONFIG = {
       passengerVehicle: 'assets/passenger.png',
       showroom: 'assets/EVs.jpg',
       warehouse: 'assets/components.jpg',
-      assembly: '',
+      assembly: 'assembly.png',
       finished: 'assets/finished.jpeg',
       /* colour views of each model (4 each): same vehicle, same angle, different colours */
       cargoColor1: 'assets/cargo.png',
